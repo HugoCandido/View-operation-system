@@ -8,9 +8,13 @@ View operation system status - execut projetc in node
 repositorio para armazenar o codigo para visualizar o status atual do sistema operacional, como :
 
 -Armazenamento da memoria RAM
+
 -Sistema operacional
+
 -Espaço livre de memoria
+
 -porcentagem de uso (atual) do computador
+
 
 
 Att
