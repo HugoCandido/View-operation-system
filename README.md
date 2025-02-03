@@ -15,6 +15,3 @@ repositorio para armazenar o codigo para visualizar o status atual do sistema op
 
 -porcentagem de uso (atual) do computador
 
-
-
-Att
